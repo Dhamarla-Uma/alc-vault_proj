@@ -1,0 +1,3 @@
+[web]
+172.31.71.195 ansible_host=private ip ansible_user=ansible
+172.31.66.103 ansible_host=private ip ansible_user=ansible
